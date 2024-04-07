@@ -9,6 +9,7 @@
     Sadece Video Linki İle çalışır
 
     ```
+    pip install getuseragent
     pkg install python
     pkg install git
     git clone https://github.com/VeraMarka/IgTok
