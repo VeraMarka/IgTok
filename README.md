@@ -17,3 +17,6 @@
     ls
     python igtok.py
     ```
+# Gerekli Olanlar
+pip'in indirilmis olması 
+pythonun indirilmiş olması 
